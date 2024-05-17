@@ -1,4 +1,4 @@
-# MCDforer
+# MCDformer
 Code for "Multi-Channel Convolutional Distilled Transformer
 for Automatic Modulation Classification".
 
